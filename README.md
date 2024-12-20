@@ -141,3 +141,5 @@ Las contribuciones son bienvenidas. Para problemas, ideas o nuevas característi
 [![Gmail](https://img.shields.io/badge/Email%20personal-white?style=for-the-badge&logo=gmail&logoColor=white&label=israelcolladom%40gmail.com&labelColor=black&color=%23EA4335)](mailto:israelcolladom@gmail.com)
 
 ## Licencia 📜
+
+Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
